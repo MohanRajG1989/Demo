@@ -1,19 +1,59 @@
 {
-  "posts": [
+  "Students": [
     {
       "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
+      "Name": "MOHANRAJ",
+      "PhNo": "1234",
+      "Course": [
+        "Java",
+        "SQL",
+        "Python"
+      ]
+    },
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "id": 2,
+      "Name": "RAJ",
+      "PhNo": "123",
+      "Course": [
+        "SQL",
+        "Python"
+      ]
+    },
+    {
+      "id": 3,
+      "Name": "Amir",
+      "PhNo": "134567",
+      "Course": [
+        "Java",
+        "Python"
+      ]
+    },
+    {
+      "Name": "A1",
+      "PhNo": "1",
+      "Course": [
+        "Java",
+        "JIRA"
+      ],
+      "id": 4
+    },
+    {
+      "Name": "A1",
+      "PhNo": "1",
+      "Course": [
+        "Java",
+        "JIRA"
+      ],
+      "id": 5
+    },
+    {
+      "Name": "A1",
+      "PhNo": "1",
+      "Course": [
+        "Java",
+        "JIRA"
+      ],
+      "id": 7
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
